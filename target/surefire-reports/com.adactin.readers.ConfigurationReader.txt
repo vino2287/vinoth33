@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adactin.readers.ConfigurationReader
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s - in com.adactin.readers.ConfigurationReader
